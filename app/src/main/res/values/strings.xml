@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Баскетбольное табло</string>
+    <string name="tablo1">Добавить очко</string>
+    <string name="tablo2">Добавить очко</string>
+    <string name="tablo3">Сброс</string>
+</resources>
